@@ -303,7 +303,7 @@ body {
      
 }
 .about .about-content .image::before {
-    content: "";
+    content: '';
     position: absolute;
     background-color: #ebeced;
     width: 100px;
@@ -313,7 +313,7 @@ body {
     z-index: -1; 
 }
 .about .about-content .image::after {
-    content: "";
+    content: '';
     position: absolute;
     width: 120px;
     height: 300px;
